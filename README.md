@@ -12,4 +12,4 @@ Louise’s play Fever came close came close to its fundraising goal in a short a
 
 ### Challenge
 Analysis of the Kickstarter data shows successful campaigns in the plays subcategory regardless of the length of the campaign. However the vast mayority of successfull campaigns have a length between 21 and 40 days.
-![IMG_1](https://github.com/rcelorio/kickstarter-analysis/Module1-OutcomeBasedonCampaignLength.png)
+![IMG_1](Module1-OutcomeBasedonCampaignLength.png)
