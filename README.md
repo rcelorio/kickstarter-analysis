@@ -11,6 +11,6 @@ Louise’s play Fever came close came close to its fundraising goal in a short a
 * Interpret the summary data provided from the visualizations
 
 ## Content
-* Images direcrtory - contains visualizations used in the challenge submission
-* Module1WeeklyChallenge_v1.xlsx - contains data and analysis used to complete the challenge
-* README.md - Descrtion of the reporsitory and final submission.
+* Images directory - contains visualizations used in the challenge submission.
+* Module1WeeklyChallenge_v1.xlsx - contains data and analysis used to complete the challenge.
+* README.md - Descrtion of the repository and final submission.
