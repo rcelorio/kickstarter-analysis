@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Analysis of kickstarter campaigns to determine optimal fundraising potential. This repository includes deliverables in support of the project.
+Analysis of kickstarter campaigns to determine optimal fundraising potential for a play. This repository includes deliverables in support of the project.
 
 ## Background
 Louise’s play Fever came close came close to its fundraising goal in a short amount of time. How many other Kickstarter campaigns were able to do this as well? In this challenge, you’ll conduct a data analysis to answer this question and determine whether the length of a campaign contributes to its ultimate success or failure.
